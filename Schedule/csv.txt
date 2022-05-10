@@ -1,0 +1,251 @@
+"Subject","Start Date","Start Time","End Date","End Time","All day event","Reminder on/off","Reminder Date","Reminder Time","Meeting Organizer","Required Attendees","Optional Attendees","Meeting Resources","Billing Information","Categories","Description","Location","Mileage","Priority","Private","Sensitivity","Show time as"
+"Systems Integration (Section 801)","1/13/2022","6:00:00 PM","1/13/2022","8:30:00 PM","False","False","1/13/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","1/20/2022","6:00:00 PM","1/20/2022","8:30:00 PM","False","False","1/20/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","1/27/2022","6:00:00 PM","1/27/2022","8:30:00 PM","False","False","1/27/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","2/3/2022","6:00:00 PM","2/3/2022","8:30:00 PM","False","False","2/3/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","2/10/2022","6:00:00 PM","2/10/2022","8:30:00 PM","False","False","2/10/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","2/17/2022","6:00:00 PM","2/17/2022","8:30:00 PM","False","False","2/17/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","2/24/2022","6:00:00 PM","2/24/2022","8:30:00 PM","False","False","2/24/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","3/3/2022","6:00:00 PM","3/3/2022","8:30:00 PM","False","False","3/3/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","3/10/2022","6:00:00 PM","3/10/2022","8:30:00 PM","False","False","3/10/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","3/17/2022","6:00:00 PM","3/17/2022","8:30:00 PM","False","False","3/17/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","3/24/2022","6:00:00 PM","3/24/2022","8:30:00 PM","False","False","3/24/2022","12:00:00 AM",,,,,,," 
+
+44","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","3/31/2022","6:00:00 PM","3/31/2022","8:30:00 PM","False","False","3/31/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","4/7/2022","6:00:00 PM","4/7/2022","8:30:00 PM","False","False","4/7/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","4/14/2022","6:00:00 PM","4/14/2022","8:30:00 PM","False","False","4/14/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","4/21/2022","6:00:00 PM","4/21/2022","8:30:00 PM","False","False","4/21/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Systems Integration (Section 801)","4/28/2022","6:00:00 PM","4/28/2022","8:30:00 PM","False","False","4/28/2022","12:00:00 AM",,,,,,," 
+
+","Sean Blasko",,"Normal","False","Normal","2"
+"Applied Econometrics I","1/11/2022","2:00:00 PM","1/11/2022","3:15:00 PM","False","False","1/10/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","1/13/2022","2:00:00 PM","1/13/2022","3:15:00 PM","False","False","1/12/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","1/18/2022","2:00:00 PM","1/18/2022","3:15:00 PM","False","False","1/17/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","1/20/2022","2:00:00 PM","1/20/2022","3:15:00 PM","False","False","1/19/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","1/25/2022","2:00:00 PM","1/25/2022","3:15:00 PM","False","False","1/24/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","1/27/2022","2:00:00 PM","1/27/2022","3:15:00 PM","False","False","1/26/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","2/1/2022","2:00:00 PM","2/1/2022","3:15:00 PM","False","False","1/31/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","2/3/2022","2:00:00 PM","2/3/2022","3:15:00 PM","False","False","2/2/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","2/8/2022","2:00:00 PM","2/8/2022","3:15:00 PM","False","False","2/7/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","2/10/2022","2:00:00 PM","2/10/2022","3:15:00 PM","False","False","2/9/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","2/15/2022","2:00:00 PM","2/15/2022","3:15:00 PM","False","False","2/14/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","2/17/2022","2:00:00 PM","2/17/2022","3:15:00 PM","False","False","2/16/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","2/22/2022","2:00:00 PM","2/22/2022","3:15:00 PM","False","False","2/21/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","2/24/2022","2:00:00 PM","2/24/2022","3:15:00 PM","False","False","2/23/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/1/2022","2:00:00 PM","3/1/2022","3:15:00 PM","False","False","2/28/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/3/2022","2:00:00 PM","3/3/2022","3:15:00 PM","False","False","3/2/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/8/2022","2:00:00 PM","3/8/2022","3:15:00 PM","False","False","3/7/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/10/2022","2:00:00 PM","3/10/2022","3:15:00 PM","False","False","3/9/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/15/2022","2:00:00 PM","3/15/2022","3:15:00 PM","False","False","3/14/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/17/2022","2:00:00 PM","3/17/2022","3:15:00 PM","False","False","3/16/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/22/2022","2:00:00 PM","3/22/2022","3:15:00 PM","False","False","3/21/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/24/2022","2:00:00 PM","3/24/2022","3:15:00 PM","False","False","3/23/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/29/2022","2:00:00 PM","3/29/2022","3:15:00 PM","False","False","3/28/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","3/31/2022","2:00:00 PM","3/31/2022","3:15:00 PM","False","False","3/30/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","4/5/2022","2:00:00 PM","4/5/2022","3:15:00 PM","False","False","4/4/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","4/7/2022","2:00:00 PM","4/7/2022","3:15:00 PM","False","False","4/6/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","4/12/2022","2:00:00 PM","4/12/2022","3:15:00 PM","False","False","4/11/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","4/14/2022","2:00:00 PM","4/14/2022","3:15:00 PM","False","False","4/13/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","4/19/2022","2:00:00 PM","4/19/2022","3:15:00 PM","False","False","4/18/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","4/21/2022","2:00:00 PM","4/21/2022","3:15:00 PM","False","False","4/20/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","4/26/2022","2:00:00 PM","4/26/2022","3:15:00 PM","False","False","4/25/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Applied Econometrics I","4/28/2022","2:00:00 PM","4/28/2022","3:15:00 PM","False","False","4/27/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Amanda Weinstein",,"Normal","False","Normal","2"
+"Business Analytics","1/10/2022","10:45:00 AM","1/10/2022","12:00:00 PM","False","False","1/9/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","1/12/2022","10:45:00 AM","1/12/2022","12:00:00 PM","False","False","1/11/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","1/17/2022","10:45:00 AM","1/17/2022","12:00:00 PM","False","False","1/16/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","1/19/2022","10:45:00 AM","1/19/2022","12:00:00 PM","False","False","1/18/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","1/24/2022","10:45:00 AM","1/24/2022","12:00:00 PM","False","False","1/23/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","1/26/2022","10:45:00 AM","1/26/2022","12:00:00 PM","False","False","1/25/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","1/31/2022","10:45:00 AM","1/31/2022","12:00:00 PM","False","False","1/30/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","2/2/2022","10:45:00 AM","2/2/2022","12:00:00 PM","False","False","2/1/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","2/7/2022","10:45:00 AM","2/7/2022","12:00:00 PM","False","False","2/6/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","2/9/2022","10:45:00 AM","2/9/2022","12:00:00 PM","False","False","2/8/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","2/14/2022","10:45:00 AM","2/14/2022","12:00:00 PM","False","False","2/13/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","2/16/2022","10:45:00 AM","2/16/2022","12:00:00 PM","False","False","2/15/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","2/21/2022","10:45:00 AM","2/21/2022","12:00:00 PM","False","False","2/20/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","2/23/2022","10:45:00 AM","2/23/2022","12:00:00 PM","False","False","2/22/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","2/28/2022","10:45:00 AM","2/28/2022","12:00:00 PM","False","False","2/27/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","3/2/2022","10:45:00 AM","3/2/2022","12:00:00 PM","False","False","3/1/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","3/7/2022","10:45:00 AM","3/7/2022","12:00:00 PM","False","False","3/6/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","3/9/2022","10:45:00 AM","3/9/2022","12:00:00 PM","False","False","3/8/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","3/14/2022","10:45:00 AM","3/14/2022","12:00:00 PM","False","False","3/13/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","3/16/2022","10:45:00 AM","3/16/2022","12:00:00 PM","False","False","3/15/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","3/21/2022","10:45:00 AM","3/21/2022","12:00:00 PM","False","False","3/20/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","3/23/2022","10:45:00 AM","3/23/2022","12:00:00 PM","False","False","3/22/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","3/28/2022","10:45:00 AM","3/28/2022","12:00:00 PM","False","False","3/27/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","3/30/2022","10:45:00 AM","3/30/2022","12:00:00 PM","False","False","3/29/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","4/4/2022","10:45:00 AM","4/4/2022","12:00:00 PM","False","False","4/3/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","4/6/2022","10:45:00 AM","4/6/2022","12:00:00 PM","False","False","4/5/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","4/11/2022","10:45:00 AM","4/11/2022","12:00:00 PM","False","False","4/10/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","4/13/2022","10:45:00 AM","4/13/2022","12:00:00 PM","False","False","4/12/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","4/18/2022","10:45:00 AM","4/18/2022","12:00:00 PM","False","False","4/17/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","4/20/2022","10:45:00 AM","4/20/2022","12:00:00 PM","False","False","4/19/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","4/25/2022","10:45:00 AM","4/25/2022","12:00:00 PM","False","False","4/24/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Business Analytics","4/27/2022","10:45:00 AM","4/27/2022","12:00:00 PM","False","False","4/26/2022","4:45:00 PM",,,,,,," 
+
+","Professor Matthew Brenn",,"Normal","False","Normal","2"
+"Taxation Classes Lab","4/21/2022","8:30:00 AM","4/21/2022","9:30:00 AM","False","False","4/20/2022","2:30:00 PM",,,,,,," 
+
+","Prof. Jules Jones",,"Normal","False","Normal","2"
+"Taxation Classes Lab","4/20/2022","5:15:00 PM","4/20/2022","6:30:00 PM","False","False","4/19/2022","11:15:00 PM",,,,,,," 
+
+","Professor Jules Jones",,"Normal","False","Normal","2"
+"Taxation Classes Lab","4/20/2022","2:00:00 PM","4/20/2022","3:15:00 PM","False","False","4/19/2022","8:00:00 PM",,,,,,," 
+
+","Prof. Jules Jones",,"Normal","False","Normal","2"
+"VITA Training","1/15/2022","9:00:00 AM","1/15/2022","3:00:00 PM","False","False","1/14/2022","3:00:00 PM",,,,,,,"","",,"Normal","False","Normal","2"
